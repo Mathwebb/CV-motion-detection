@@ -1,2 +1,5 @@
 venv
 videos
+entry_frames
+exit_frames
+motion_frames
